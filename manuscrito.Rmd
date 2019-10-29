@@ -8,11 +8,11 @@ output:
     template: svm-latex-ms.tex
     number_sections: true
 title: | 
-        | Mis hormigas
-        | Subtítulo
-        | Subtítulo
+        | Las Hormigas del Tali: Sol, cansancio y dolor, viviendo la experiencia.
+        | Hormigas Talibanesas 
+        | Aquí todos somos Talibanes 
 author:
-- name: Tali tali tali
+- name: Bidelkis A. Castillo S. (Dora)
   affiliation: Estudiante, Universidad Autónoma de Santo Domingo (UASD)
 abstract: "Mi resumen"
 keywords: "palabra clave 1, palabra clave 2"
@@ -32,7 +32,21 @@ header-includes:
 
 # Introducción
 
-\ldots
+El mundo que habitamos está compuesto de una gran diversidad de animales, en la mayoria de los casos los humanos solo prestan atención y estudian a aquellos que solo son perceptibles a la visión, pero dentro de este gran grupo de vida animal se encuentran unos pequeños y en ocasiones muy diminutos seres que realizan una labor importante en el Ecosistema: **"Los Insectos"**. 
+
+Según @pena1996introduccion, los insectos son animales tal como cualquier otro, que abundan en número como en especie, se calcula que éstas sobrepasan las 750,000 ya conocidas por el hombre y se estima que quedan decenas de miles sin descubrir.
+
+Dentro de este gran número de especie se encuentran las hormigas, éstas pertenecen al grupo de las Hymenoptera y a la familia Formicidae. Según @fernandez2004lista las hormigas son insectos conspicuos y dominantes
+en el Mundo. Siempre se dice que las hormigas son muy abundantes en los ecosistemas tropicales, disminuyendo hacia las latitudes templadas; sin embargo en países de climas extremos pueden ser localmente abundantes (como las grandes colonias de Formica) y decisivas. Actualmente se reconocen alrededor de 11500 especies de hormigas descritas en todo el Mundo, de las cuales unas 3100 corresponden a la Región Neotropical. Con casi un 30% de las hormigas del Mundo, el Neotrópico esla región más rica en hormigas.
+
+En Republica Dominicana 
+Arreglar las citas, poner con mis palabras.
+
+
+
+
+
+
 
 # Metodología
 

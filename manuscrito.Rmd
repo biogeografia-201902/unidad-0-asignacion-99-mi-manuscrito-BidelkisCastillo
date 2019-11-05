@@ -15,7 +15,7 @@ author:
 - name: Bidelkis A. Castillo S. (Dora)
   affiliation: Estudiante, Universidad Autónoma de Santo Domingo (UASD)
 abstract: "Mi resumen"
-keywords: "palabra clave 1, palabra clave 2"
+keywords: Formicidae, insectos, especies, Hymenoptera, hispaniola 
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 geometry: margin=1in
 fontfamily: mathpazo
@@ -32,25 +32,34 @@ header-includes:
 
 # Introducción
 
-El mundo que habitamos está compuesto de una gran diversidad de animales, en la mayoria de los casos los humanos solo prestan atención y estudian a aquellos que solo son perceptibles a la visión, pero dentro de este gran grupo de vida animal se encuentran unos pequeños y en ocasiones muy diminutos seres que realizan una labor importante en el Ecosistema: **"Los Insectos"**. 
-
-Según @pena1996introduccion, los insectos son animales tal como cualquier otro, que abundan en número como en especie, se calcula que éstas sobrepasan las 750,000 ya conocidas por el hombre y se estima que quedan decenas de miles sin descubrir.
-
-Dentro de este gran número de especie se encuentran las hormigas, éstas pertenecen al grupo de las Hymenoptera y a la familia Formicidae. Según @fernandez2004lista las hormigas son insectos conspicuos y dominantes
-en el Mundo. Siempre se dice que las hormigas son muy abundantes en los ecosistemas tropicales, disminuyendo hacia las latitudes templadas; sin embargo en países de climas extremos pueden ser localmente abundantes (como las grandes colonias de Formica) y decisivas. Actualmente se reconocen alrededor de 11500 especies de hormigas descritas en todo el Mundo, de las cuales unas 3100 corresponden a la Región Neotropical. Con casi un 30% de las hormigas del Mundo, el Neotrópico esla región más rica en hormigas.
-
-En Republica Dominicana 
-Arreglar las citas, poner con mis palabras.
+El mundo que habitamos está compuesto de una gran diversidad de animales, en la mayoria de los casos los humanos solo prestan atención y estudian a aquellos que son perceptibles a la visión, pero dentro de este gran grupo de vida animal se encuentran unos pequeños y en ocasiones muy diminutos seres que realizan una labor importante en el Ecosistema: **"Los Insectos"**. 
 
 
+Según @pena1996introduccion, los insectos son animales como los demás, números y ricos en especie, con una densidad poblacional de más de 750,000 conocidas y las que faltan por encontrar. 
 
 
+Dentro de este gran número de especie se encuentran las hormigas, éstas pertenecen al grupo de las Hymenoptera y a la familia Formicidae. Según @fernandez2004lista las hormigas son insectos visibles, famosas y sobresalientes, e imperiosas en la tierra. Se dice que estas son muy abundantes en los ecosistemas tropicales, disminuyendo hacia las latitudes templadas; mientras que en países de climas extremos pueden ser localmente abundantes (como las grandes colonias de Formica) y decisivas. Continúa @pena1996introduccion diciendo que en el presente hay cerca de 11500 especies de hormigas definidas en todo el Mundo, de las cuales unas 3100 corresponden a la Región Neotropical. Con casi un 30% de las hormigas del Mundo, el Neotrópico es la región más rica en hormigas.
 
+
+Las hormigas juegan un papel muy impotante en el ecosistema, siendo éstas dispersadoras de semillas que caen de la planta al suelo, son capaces de polinizar cargando el polen a plantas cercanas, son depredadoras y descomponedoras e incrementan la materia orgánica.
+
+
+Segun @lubertazzi2019ants en la isla de la hispaniola, que comprende Haití y República Dominicana las hormigas estan representada por 9 familias, 43 géneros, 137 especies, y 10 subespecies, de las cuales 126 especies son nativas y 11 introducidas, 60 de las especies nativas son endémicas  y 68 se encuentran en ambos países, de estas 99 son de Haiti y 126 de República Dominicana.
+
+Pregunta 1. ¿Las hormigas se encuentran en mayor concentración en áreas aseadas y sin basura o en zonas donde hay zafacones ?
+
+Pregunta 2. ¿Se relaciona la falta de vegetación herbácea con la abundancia de las hormigas ?
+
+Este estudio lo que buscar es identificar hasta género las Formicidae (hormigas) que se encuentran distribuidas en el campus de la Universidad Autónoma de Santo Domingo (UASD).
 
 
 # Metodología
 
-\ldots
+Listado de intrumentos utilizados
+Días, tiempo de recolecta, influencia de pavimento
+Formulario, identificación (proceso)
+Atún y la influencia a las hormigas 
+
 
 # Resultados
 
